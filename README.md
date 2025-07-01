@@ -10,9 +10,9 @@
 
 ### 🧰 Tech Stack & Interests
 
-💻 Full-stack development & system architecture
-🧠 Problem-solving via algorithms & data structures
-🔧 Currently diving deep into backend and databases
+- Full-stack development & system architecture💻
+- Problem-solving via algorithms & data structures🧠
+- Currently diving deep into backend and databases🔧
   
 ---
 
