@@ -25,10 +25,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KnlnKS/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=young-proton&theme=dark" alt="LeetCode Stats" />
+  <a href="https://leetcode-stats-six.vercel.app">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=young_proton&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
+
 
 ---
 
