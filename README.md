@@ -30,6 +30,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://leetcode-badge-sage.vercel.app/badge/young_proton?theme=dark" alt="LeetCode Stats" />
+</p>
+
 
 ---
 
